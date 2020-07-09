@@ -1,0 +1,41 @@
+body{
+    background-color: #fff9c4 !important;
+}
+
+img{
+    width: 28%;
+}
+
+.collapsible-header{
+    font-size: large !important;
+}
+
+.brown li a{
+    color: white !important;
+    font-size: medium !important;
+}
+
+.brown a{
+    color: white !important;
+    font-size: larger !important;
+}
+
+.brown{
+    color: white !important;
+    font-size: larger !important;
+}
+
+.brown a i{
+    color: white !important;
+}
+
+.yellow li{
+    color: black !important;
+    font-size: medium !important;
+}
+
+#nav-mobile li a{
+    color: black !important;
+    font-size: medium !important;
+}
+

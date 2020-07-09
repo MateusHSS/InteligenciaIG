@@ -1,0 +1,6 @@
+[17-Mar-2020 13:17:24 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ongceu28_mateus'@'localhost' (using password: YES) in /home1/ongceu28/inteligenciaig.com.br/config/conexao.php on line 8
+[17-Mar-2020 13:17:24 America/Fortaleza] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/ongceu28/inteligenciaig.com.br/config/conexao.php on line 8
+[17-Mar-2020 13:19:03 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ongceu28_mateus'@'localhost' (using password: YES) in /home1/ongceu28/inteligenciaig.com.br/config/conexao.php on line 8
+[17-Mar-2020 13:19:03 America/Fortaleza] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/ongceu28/inteligenciaig.com.br/config/conexao.php on line 8
+[17-Mar-2020 13:21:10 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ongceu28_mateus'@'localhost' (using password: YES) in /home1/ongceu28/inteligenciaig.com.br/config/conexao.php on line 8
+[17-Mar-2020 13:21:10 America/Fortaleza] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/ongceu28/inteligenciaig.com.br/config/conexao.php on line 8

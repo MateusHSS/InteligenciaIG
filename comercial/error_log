@@ -1,0 +1,10 @@
+[25-Mar-2020 09:51:39 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home1/ongceu28/inteligenciaig.com.br/comercial/controller/select/listaAtendimentosDia.php:5
+Stack trace:
+#0 /home1/ongceu28/inteligenciaig.com.br/comercial/index.php(4): include_once()
+#1 {main}
+  thrown in /home1/ongceu28/inteligenciaig.com.br/comercial/controller/select/listaAtendimentosDia.php on line 5
+[25-Mar-2020 09:52:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home1/ongceu28/inteligenciaig.com.br/comercial/controller/select/listaAtendimentosDia.php:5
+Stack trace:
+#0 /home1/ongceu28/inteligenciaig.com.br/comercial/index.php(4): include_once()
+#1 {main}
+  thrown in /home1/ongceu28/inteligenciaig.com.br/comercial/controller/select/listaAtendimentosDia.php on line 5
